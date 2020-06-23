@@ -32,9 +32,12 @@ Open using Git Pages:
 
 ## Specs
 
-| |
+Behavior|Input|Output
 ------|------|------
-| |
+The program will display all natural numbers from 1 to 1000|1000|1, 2... 999, 1000
+The program will display multiples of 5 from 1 to 1000|1000|5, 10... 995, 1000
+The program will display multiples of 3 and 5 from 1 to 1000|1000|3, 5... 999, 1000
+The program will return the sum of all multiples of 3 and 5 from 1 to 1000|1000|TBD
 
 ## Known Bugs
 
